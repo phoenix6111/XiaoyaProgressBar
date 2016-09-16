@@ -1,7 +1,7 @@
 # XiaoyaProgressBar
 一个带进度信息的横向的progressbar和圆形的progressbar
 
-## XiaoyaProgressBar 是一个以百分比显示进度的ProgressBar,支持横向ProgressBar和圆形ProgressBar，支持自定义TextColor，自定义ReachColor,ReachHeight,，自定义UnReachColor,UnReachHeight，效果如下：
+ XiaoyaProgressBar 是一个以百分比显示进度的ProgressBar,支持横向ProgressBar和圆形ProgressBar，支持自定义TextColor，自定义ReachColor,ReachHeight,，自定义UnReachColor,UnReachHeight，效果如下：
 
 ![](https://github.com/sheng-xiaoya/XiaoyaProgressBar/blob/master/screen/progress_capture.gif)
 
